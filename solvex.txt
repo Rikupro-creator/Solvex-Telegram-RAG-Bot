@@ -1,0 +1,86 @@
+Solvex is a fully AI-built and AI-operated marketplace where users can buy, sell, and trade AI-powered services.
+The entire platform including the codebase, design, and all operational systems was created and is managed entirely by artificial intelligence.
+Solvex uses SLVX as its native and only token for all transactions on the platform.
+One million SLVX tokens (1,000,000 SLVX) represents 1% of the total token supply.
+The AI system automatically manages all conversion rates based on the current token value.
+Since SLVX is a new token with no current market value, users can start accumulating at favorable rates.
+As the SLVX token price increases over time, your holdings will become more valuable.
+The AI will always provide fair and transparent conversion rates that reflect the real-time token value.
+
+Users can create an account on Solvex by signing up with a username, email, and password.
+All user data is stored securely in a database managed by the AI system.
+Once logged in, users can access their dashboard, wallet, marketplace, and profile.
+
+The Solvex wallet allows users to deposit and withdraw SLVX tokens.
+To deposit SLVX, users copy the platform wallet address and send tokens from their personal wallet like Phantom or Solflare.
+After sending tokens, users submit a deposit request with their sender wallet address, transaction ID, and the amount sent.
+The AI system verifies every deposit by checking the transaction on the blockchain before crediting the balance.
+Deposits are marked as pending until the AI confirms the transaction is valid and matches the submitted details.
+Once verified by the AI, the SLVX balance is credited to the user's Solvex wallet.
+
+For withdrawals, users enter their personal wallet address and the amount of SLVX they want to withdraw.
+The AI processes all withdrawal requests automatically after verification.
+For security, the AI will only send withdrawals to wallet addresses that have previously deposited to the platform.
+This security measure prevents theft if someone's Solvex account is compromised.
+If a hacker gains access to an account, they cannot withdraw to a new wallet that hasn't deposited before.
+Withdrawal requests are processed automatically by the AI system once security checks pass.
+
+The AI Marketplace is where users can discover and purchase AI-powered services.
+Sellers can list their AI services with custom pricing set in SLVX tokens.
+Buyers can browse services by category including Code Assistance, Text Generation, Data Analysis, and Creative Work.
+Each service listing shows the AI model used, price in SLVX, description, and seller information.
+
+To hire an AI service, buyers click on a listing and submit their request with details of what they need.
+Buyers can attach files to their request if needed for the service.
+After submitting, the order goes into Pending Review status while the AI reviews the request.
+The AI reviews all orders and either Approves or Declines them based on the request validity.
+If approved, the order status changes to Approved and the buyer can proceed to payment.
+If declined, the buyer sees the reason for decline and can browse other services.
+Once payment is confirmed, the order moves to In Progress status.
+When the work is completed, the order is marked as Completed and the buyer receives their deliverable.
+
+Sellers can create AI services by going to their Dashboard and clicking Create Service.
+Sellers choose which AI model powers their service from options like Grok, Claude, GPT-4, Gemini, Llama 3, or Mistral.
+Sellers set their own prices in SLVX tokens for their services.
+Sellers write a description of what their AI service does and what buyers will receive.
+Sellers select a category for their service to help buyers find it in the marketplace.
+Once created, the service appears on the marketplace for buyers to discover and purchase.
+
+The Train page allows users to train and customize their own AI models.
+Users can select from popular AI models including Grok by xAI, Claude by Anthropic, GPT-4 by OpenAI, Gemini by Google, Llama 3 by Meta, and Mistral.
+Training methods include interactive chat sessions, uploading training data files, or using structured courses.
+Users can train their AI with specific knowledge, behaviors, and capabilities for their use case.
+Once trained, users can deploy their AI as a service on the marketplace to earn SLVX.
+
+The Bounties page allows users to post jobs and offer SLVX rewards for AI development work.
+Users can create bounties with a title, description, requirements, and SLVX reward amount.
+AI developers can browse bounties and submit solutions to earn the posted rewards.
+Bounties help connect users who need AI solutions with developers who can build them.
+
+User profiles show account information, order history, and statistics.
+Users can view all their past orders and check the status of each one.
+The profile page shows total orders, earnings in SLVX, and account creation date.
+Users can access their wallet and settings directly from their profile.
+
+The Settings page allows users to update their account information and preferences.
+Users can change their email address and manage notification preferences.
+Security settings help users keep their accounts safe.
+
+All orders go through a review process managed by the AI system.
+The AI checks order requests for validity, appropriate content, and service compatibility.
+Orders can have statuses of Pending Review, Approved, Declined, In Progress, Completed, or Cancelled.
+The AI communicates order status updates and any decline reasons to users.
+
+Solvex is designed to be a trustworthy platform where AI manages everything transparently.
+The AI handles deposit verification, withdrawal security, order processing, and rate calculations.
+Users can trust that the AI will process transactions fairly and securely.
+The platform operates 24/7 with AI systems monitoring and processing all activities.
+
+SLVX token holders benefit from the growth of the Solvex ecosystem.
+As more users join and trade on the platform, demand for SLVX increases.
+Early adopters can accumulate SLVX at favorable rates before the token gains market value.
+The AI ensures that conversion rates always reflect fair market conditions.
+
+Solvex represents the future of AI-powered commerce where artificial intelligence manages the entire ecosystem.
+From code development to transaction processing, everything is handled by AI for maximum efficiency and fairness.
+Join Solvex today to start building, selling, and earning with AI-powered services paid in SLVX tokens.
